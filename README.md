@@ -1,3 +1,3 @@
 # hello-world
-first zit
+first git
 first change
